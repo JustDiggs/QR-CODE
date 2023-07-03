@@ -1,0 +1,40 @@
+body{
+  background-color:hsl(212, 45%, 89%);
+  font-family: 'Outfit', Courier, monospace;
+  color: rgb(12, 20, 46);
+}
+.container{
+  align-items: center;
+  position: relative;
+  background-color: rgba(255,255,255);
+  height: 500px;
+  width: 350px;
+  border-radius: 20px;
+  margin-left: 800px;
+  margin-top: 200px;
+  box-shadow: 0 10px 100px -50px black ;
+}
+img{
+  height: 310px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.heading{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  color:hsl(218, 44%, 22%);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:15px;
+}
+.writing{
+  text-align: center;
+  font-weight: 400;
+  color:hsl(220, 15%, 55%);
+  margin-left: 40px;
+  margin-right:40px;
+  font-size: 15px;
+}
